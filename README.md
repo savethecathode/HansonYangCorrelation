@@ -1,2 +1,2 @@
 # HansonYangCorrelation
-Hanson Yang Correlation Tests
+Hanson-Yang Correlation Tests
