@@ -3,7 +3,7 @@
 require(stats) # for lowess, rpois, rnorm
 
 # Set path to R-packages:
-.libPaths("/Users/LazaridisLab/Documents/Rstuff/Rpackageslibrary")
+.libPaths("~/Rpackageslibrary")
 # Load library: Practical Math, erf()
 library(pracma)
 
